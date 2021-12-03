@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">My Portofolio</string>
+    <string name="title_home">Home</string>
+    <string name="title_skills">Skills</string>
+    <string name="title_education">Graduate</string>
+    <string name="title_about">Profile</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="deskripsi">Culpa qui sunt occaecat incididunt commodo adipisicing
+        sit sunt amet aute tempor incididunt enim. Sint qui nisi ullamco labore nostrud
+        et enim Lorem consectetur culpa labore. Velit do amet commodo. Veniam occaecat id enim
+        velit amet tempor do tempor et ullamco. Ea fugiat ipsum laboris et cupidatat voluptate sint
+        do aute laboris sint magna enim. Consectetur nulla in voluptate nisi duis fugiat velit ullamco.
+        Amet voluptate non in ex occaecat officia ad voluptate. Ad culpa cillum voluptate et eu occaecat nisi commodo.
+    </string>
+    <string name="lorem">Tempor duis consequat in ea sit qui laboris labore esse nostrud officia.
+        Est irure reprehenderit ad tempor elit quis sit Lorem qui dolore pariatur culpa tempor.
+        Reprehenderit officia aliqua ullamco incididunt aliquip.
+    </string>
+    <string name="click">Click here</string>
+    <string name="cv_edu_first">2011–2017</string>
+    <string name="sd_edu">SD - SDN Cipinang 01 Pagi</string>
+    <string name="education_title">Karier Sekolah</string>
+    <string name="smp_edu">SMP - MTs Imam Syathiby</string>
+    <string name="cv_edu_second">2018 – 2021</string>
+    <string name="smk_edu">SMK - SMK IDN Boarding School</string>
+    <string name="cv_edu_third">2021 – 2024</string>
+    <string name="desc_img">gambar topi</string>
+    <string name="desc_img_bg">gambar background</string>
+    <string name="profil_desc_img">gambar profil</string>
+    <string name="title_orang">Manusia Ganteng</string>
+    <string name="about">Tentang saya:</string>
+    <string name="contact">Kontak saya:</string>
+    <string name="linkedin">Linkedin</string>
+    <string name="github">Github</string>
+    <string name="gmail">Gmail</string>
+    <string name="skills">Skills</string>
+    <string name="figma">Figma</string>
+    <string name="ui_ux_designer">UI/UX Designer</string>
+    <string name="kotlin">Kotlin</string>
+    <string name="javascript">JavaScript</string>
+    <string name="projects">Projects</string>
+    <string name="my_profile">My Profile</string>
+    <string name="my_project">My Projects</string>
+    <string name="my_skills">My Skills</string>
+    <string name="my_graduates">My Graduates</string>
+</resources>
