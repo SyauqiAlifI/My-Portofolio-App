@@ -6,6 +6,7 @@ import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import android.widget.Toast
 import androidx.browser.customtabs.CustomTabsIntent
 import com.aplikasi.myportofolio.databinding.FragmentEducationBinding
 class EducationFragment : Fragment() {
@@ -44,6 +45,6 @@ class EducationFragment : Fragment() {
     }
 }
 
-private const val LINK_A = "https://www.facebook.com/SD-Kuda-Laut-Pagi-Cipinang-01-Pagi-Jakarta-Timur-Semua-Alumni-191191204539/"
-private const val LINK_B = "https://psb.syathiby.id/"
+private const val LINK_A = "https://sitcordova.sch.id/"
+private const val LINK_B = "https://sqiboardingschool.com/"
 private const val LINK_C = "https://idn.sch.id/"
