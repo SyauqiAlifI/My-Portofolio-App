@@ -23,6 +23,15 @@ class SkillFragment : Fragment() {
         binding.cv1.setOnClickListener {
             Toast.makeText(context, "Maaf Tidak ada detail untuk skill", Toast.LENGTH_SHORT).show()
         }
+        binding.cv2.setOnClickListener {
+            Toast.makeText(context, "Maaf Tidak ada detail untuk skill", Toast.LENGTH_SHORT).show()
+        }
+        binding.cv3.setOnClickListener {
+            Toast.makeText(context, "Maaf Tidak ada detail untuk skill", Toast.LENGTH_SHORT).show()
+        }
+        binding.cv4.setOnClickListener {
+            Toast.makeText(context, "Maaf Tidak ada detail untuk skill", Toast.LENGTH_SHORT).show()
+        }
 
         return binding.root
     }
