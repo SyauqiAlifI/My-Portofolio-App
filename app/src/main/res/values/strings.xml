@@ -18,9 +18,9 @@
     </string>
     <string name="click">Click here</string>
     <string name="cv_edu_first">2011–2017</string>
-    <string name="sd_edu">SD - SDN Cipinang 01 Pagi</string>
+    <string name="sd_edu">SD - SDIT Cordova Pd. Jati</string>
     <string name="education_title">Karier Sekolah</string>
-    <string name="smp_edu">SMP - MTs Imam Syathiby</string>
+    <string name="smp_edu">SMP - SMP Sekolah Quran Indonesia</string>
     <string name="cv_edu_second">2018 – 2021</string>
     <string name="smk_edu">SMK - SMK IDN Boarding School</string>
     <string name="cv_edu_third">2021 – 2024</string>
@@ -43,4 +43,5 @@
     <string name="my_project">My Projects</string>
     <string name="my_skills">My Skills</string>
     <string name="my_graduates">My Graduates</string>
+    <string name="html">HTML</string>
 </resources>
