@@ -47,7 +47,7 @@ object DataProjects {
         R.drawable.news_app,
         R.drawable.portofolio_app,
         R.drawable.recipe_app,
-        R.drawable.my_portofolio_app
+        R.drawable.mpapp
     )
 
     val listAllProjects: ArrayList<Projects>
