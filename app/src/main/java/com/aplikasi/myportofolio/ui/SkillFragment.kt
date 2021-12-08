@@ -21,16 +21,16 @@ class SkillFragment : Fragment() {
         _binding = FragmentSkillBinding.inflate(inflater, container, false)
 
         binding.cv1.setOnClickListener {
-            Toast.makeText(context, "Maaf Tidak ada detail untuk skill", Toast.LENGTH_SHORT).show()
+            Toast.makeText(context, "Desainer UI Di IDN", Toast.LENGTH_SHORT).show()
         }
         binding.cv2.setOnClickListener {
-            Toast.makeText(context, "Maaf Tidak ada detail untuk skill", Toast.LENGTH_SHORT).show()
+            Toast.makeText(context, "Kotlin, Membuat Aplikasi", Toast.LENGTH_SHORT).show()
         }
         binding.cv3.setOnClickListener {
-            Toast.makeText(context, "Maaf Tidak ada detail untuk skill", Toast.LENGTH_SHORT).show()
+            Toast.makeText(context, "JS, Salah satu bahasa kesukaan", Toast.LENGTH_SHORT).show()
         }
         binding.cv4.setOnClickListener {
-            Toast.makeText(context, "Maaf Tidak ada detail untuk skill", Toast.LENGTH_SHORT).show()
+            Toast.makeText(context, "HTML, Membuat website :)", Toast.LENGTH_SHORT).show()
         }
 
         return binding.root
