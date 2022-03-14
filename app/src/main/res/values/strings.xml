@@ -47,4 +47,10 @@
     <string name="graduate_1">Alif\'s Graduate</string>
     <string name="graduate_2">Haydar\'s Graduate</string>
     <string name="graduate_3">Danish\'s Graduate</string>
+    <string name="txt_danish_graduate">Danish\'s Graduate</string>
+    <string name="txt_sdn_cipinang_01">SDN Cipinang 01</string>
+    <string name="txt_mahad_tahfidz_syathiby">Mahad Tahfidz Syathiby</string>
+    <string name="txt_smk_idn_boarding_sch">SMK IDN Boarding Sch</string>
+    <string name="txt_sdit_alam_harapan_ummat">SDIT Alam Harapan Ummat</string>
+    <string name="txt_smpit_harapan_ummat">SMPIT Harapan Ummat</string>
 </resources>
