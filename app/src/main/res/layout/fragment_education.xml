@@ -328,7 +328,7 @@
                         android:layout_height="wrap_content"
                         android:layout_gravity="start"
                         android:maxLines="1"
-                        android:text="@string/sd_edu"
+                        android:text="SDIT Alam Harapan Ummat"
                         android:textColor="@color/black"
                         android:textSize="20sp"
                         android:textStyle="bold" />
@@ -391,7 +391,7 @@
                         android:layout_height="wrap_content"
                         android:layout_gravity="start"
                         android:maxLines="1"
-                        android:text="@string/smp_edu"
+                        android:text="SMPIT Harapan Ummat"
                         android:textColor="@color/black"
                         android:textSize="20sp"
                         android:textStyle="bold" />
