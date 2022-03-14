@@ -25,6 +25,5 @@
             android:exported="true"
             android:label="@string/app_name" />
     </application>
-<!--            android:theme="@style/NoActionBar"-->
 
 </manifest>

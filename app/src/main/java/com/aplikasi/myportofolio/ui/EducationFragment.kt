@@ -32,16 +32,30 @@ class EducationFragment : Fragment() {
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
 
-        binding.cv1.setOnClickListener {
-            CustomTabsIntent.Builder().build().launchUrl(requireContext(), Uri.parse(LINK_A))
-        }
+        binding.apply {
+            cv1.setOnClickListener {
+                CustomTabsIntent.Builder().build().launchUrl(requireContext(), Uri.parse(LINK_A_D))
+            }
 
-        binding.cv2.setOnClickListener {
-            CustomTabsIntent.Builder().build().launchUrl(requireContext(), Uri.parse(LINK_B))
-        }
+            cv2.setOnClickListener {
+                CustomTabsIntent.Builder().build().launchUrl(requireContext(), Uri.parse(LINK_B_D))
+            }
 
-        binding.cv3.setOnClickListener {
-            CustomTabsIntent.Builder().build().launchUrl(requireContext(), Uri.parse(LINK_C))
+            cv3.setOnClickListener {
+                CustomTabsIntent.Builder().build().launchUrl(requireContext(), Uri.parse(LINK_C_D))
+            }
+
+            cvH1.setOnClickListener {
+                CustomTabsIntent.Builder().build().launchUrl(requireContext(), Uri.parse(LINK_A_H))
+            }
+
+            cvH2.setOnClickListener {
+                CustomTabsIntent.Builder().build().launchUrl(requireContext(), Uri.parse(LINK_B_H))
+            }
+
+            cvH3.setOnClickListener {
+                CustomTabsIntent.Builder().build().launchUrl(requireContext(), Uri.parse(LINK_C_H))
+            }
         }
     }
 }
@@ -49,3 +63,9 @@ class EducationFragment : Fragment() {
 private const val LINK_A = "https://sitcordova.sch.id/"
 private const val LINK_B = "https://sqiboardingschool.com/"
 private const val LINK_C = "https://idn.sch.id/"
+private const val LINK_A_H = "https://idn.sch.id/"
+private const val LINK_B_H = "https://idn.sch.id/"
+private const val LINK_C_H = "https://idn.sch.id/"
+private const val LINK_A_D = "https://idn.sch.id/"
+private const val LINK_B_D = "https://idn.sch.id/"
+private const val LINK_C_D = "https://idn.sch.id/"
