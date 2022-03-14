@@ -3,6 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Danish/AndroidStudioProjects/My-Portofolio-App2/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Danish/AndroidStudioProjects/My-Portofolio-App2/app/src/main/res/layout/activity_splash_screen.xml" value="0.25" />
+        <entry key="..\:/Users/Danish/AndroidStudioProjects/My-Portofolio-App2/app/src/main/res/layout/fragment_education.xml" value="0.25" />
+        <entry key="..\:/Users/Danish/AndroidStudioProjects/My-Portofolio-App2/app/src/main/res/layout/fragment_my_project.xml" value="0.17486338797814208" />
+        <entry key="..\:/Users/Danish/AndroidStudioProjects/My-Portofolio-App2/app/src/main/res/layout/fragment_profile.xml" value="0.25" />
+        <entry key="..\:/Users/Danish/AndroidStudioProjects/My-Portofolio-App2/app/src/main/res/layout/fragment_skill.xml" value="0.25" />
+        <entry key="..\:/Users/Danish/AndroidStudioProjects/My-Portofolio-App2/app/src/main/res/layout/row_item_projects.xml" value="0.25" />
         <entry key="app/src/main/res/drawable/bg_splash_screen.xml" value="0.27760416666666665" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="app/src/main/res/layout/activity_splash_screen.xml" value="0.16757246376811594" />

@@ -78,7 +78,7 @@
             android:textStyle="bold"
             android:textAlignment="center"
             android:textSize="24sp"
-            android:text="@string/graduate_1"
+            android:text="Danish's Graduate"
             android:textColor="@color/black"
             android:layout_marginTop="20dp"
             app:layout_constraintTop_toBottomOf="@id/bg_1"
@@ -122,7 +122,7 @@
                         android:layout_height="wrap_content"
                         android:layout_gravity="start"
                         android:maxLines="1"
-                        android:text="@string/sd_edu"
+                        android:text="SDN Cipinang 01"
                         android:textColor="@color/black"
                         android:textSize="20sp"
                         android:textStyle="bold" />
@@ -185,7 +185,7 @@
                         android:layout_height="wrap_content"
                         android:layout_gravity="start"
                         android:maxLines="1"
-                        android:text="@string/smp_edu"
+                        android:text="Mahad Tahfidz Syathiby"
                         android:textColor="@color/black"
                         android:textSize="20sp"
                         android:textStyle="bold" />
@@ -249,7 +249,7 @@
                         android:layout_height="wrap_content"
                         android:layout_gravity="start"
                         android:maxLines="1"
-                        android:text="@string/smk_edu"
+                        android:text="SMK IDN Boarding Sch"
                         android:textColor="@color/black"
                         android:textSize="20sp"
                         android:textStyle="bold" />
