@@ -44,4 +44,7 @@
     <string name="my_skills">My Skills</string>
     <string name="my_graduates">My Graduates</string>
     <string name="html">HTML</string>
+    <string name="graduate_1">Alif\'s Graduate</string>
+    <string name="graduate_2">Haydar\'s Graduate</string>
+    <string name="graduate_3">Danish\'s Graduate</string>
 </resources>
