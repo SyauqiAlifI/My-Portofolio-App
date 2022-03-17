@@ -45,6 +45,6 @@ class ProfileFragment : Fragment() {
     }
 }
 
-private const val LINK_A = "https://www.linkedin.com/in/syauqi-alif-ibrahim-35440b222/"
-private const val LINK_B = "https://github.com/SyauqiAlifI"
-private const val LINK_C = "https://mail.google.com/mail/u/0/#inbox?compose=CllgCJvkXKlKVSnVkKZVnCNvwxwtzQcFfjZZVrLHMsxbFBMxlGHdKqPsmCpchhFGBsMWZdzRKtg"
+private const val LINK_A = "https://www.linkedin.com/in/danish-maula-hasbi-a1241721a/"
+private const val LINK_B = "https://github.com/DanishMaula"
+private const val LINK_C = "https://mail.google.com/mail/u/0/#inbox?compose=DmwnWsCbHnqRZDmFCKKDNKVcwtdJtmgFwrZmhnCBVFNkmsGxDJLZBGTRmwrsNvSBqmTXvRkwlkBq"

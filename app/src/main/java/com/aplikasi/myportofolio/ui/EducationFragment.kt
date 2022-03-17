@@ -56,6 +56,18 @@ class EducationFragment : Fragment() {
             cvH3.setOnClickListener {
                 CustomTabsIntent.Builder().build().launchUrl(requireContext(), Uri.parse(LINK_C_H))
             }
+
+            cvD1.setOnClickListener {
+                CustomTabsIntent.Builder().build().launchUrl(requireContext(), Uri.parse(LINK_A))
+            }
+
+            cvD2.setOnClickListener {
+                CustomTabsIntent.Builder().build().launchUrl(requireContext(), Uri.parse(LINK_B))
+            }
+
+            cvD3.setOnClickListener {
+                CustomTabsIntent.Builder().build().launchUrl(requireContext(), Uri.parse(LINK_C))
+            }
         }
     }
 }
@@ -63,9 +75,9 @@ class EducationFragment : Fragment() {
 private const val LINK_A = "https://sitcordova.sch.id/"
 private const val LINK_B = "https://sqiboardingschool.com/"
 private const val LINK_C = "https://idn.sch.id/"
-private const val LINK_A_H = "https://idn.sch.id/"
-private const val LINK_B_H = "https://idn.sch.id/"
+private const val LINK_A_H = "https://sdit.lpitharumpurbalingga.com/"
+private const val LINK_B_H = "https://smpitharumpurbalingga.sch.id/"
 private const val LINK_C_H = "https://idn.sch.id/"
-private const val LINK_A_D = "https://idn.sch.id/"
-private const val LINK_B_D = "https://idn.sch.id/"
+private const val LINK_A_D = "https://dapo.kemdikbud.go.id/sekolah/B881A51F3DFEB7A3C48D"
+private const val LINK_B_D = "https://psb.syathiby.id/"
 private const val LINK_C_D = "https://idn.sch.id/"
